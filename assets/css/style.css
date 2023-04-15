@@ -57,3 +57,8 @@ form {
   box-shadow: none;
   top: 6px; 
 } 
+p {
+  font-family: 'Space Mono', monospace;
+  color: #fff;
+  text-align: center;
+}
